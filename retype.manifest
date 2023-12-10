@@ -1,6 +1,6 @@
 {
   "version": "3.0.3",
-  "created": "2023-12-10T13:01:21Z",
+  "created": "2023-12-10T13:07:56Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,7 +9,8 @@
       "path": "404.html"
     },
     {
-      "path": "CNAME"
+      "path": "CNAME",
+      "old": true
     },
     {
       "path": "codeigniter/index.html"

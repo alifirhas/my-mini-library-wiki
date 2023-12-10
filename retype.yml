@@ -1,6 +1,6 @@
 input: src
 output: docs
-url: http://localhost:5003/
+url: https://alifirhas.github.io/my-mini-library-wiki/
 branding:
   title: Mini Library wiki
   label: Docs
