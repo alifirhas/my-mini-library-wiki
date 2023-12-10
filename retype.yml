@@ -1,0 +1,11 @@
+input: src
+output: docs
+url: http://localhost:5003/
+branding:
+  title: Mini Library wiki
+  label: Docs
+# links:
+# - text: Getting Started
+#   link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
